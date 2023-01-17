@@ -1,4 +1,4 @@
-### Hi there 👋
+### Its easy to forget that life is fragile, take care.
 
 <!--
 **brykneval/brykneval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
